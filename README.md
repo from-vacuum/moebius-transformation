@@ -1,4 +1,4 @@
-# Möbius Transformation Compute Shader
+# Möbius Transformation for POPs
 
 A POP Operator(GLSL) that applies 4D Möbius transformations to 3D geometry via stereographic projection.
 
