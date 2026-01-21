@@ -14,6 +14,9 @@ This creates smooth, continuous deformations that would be impossible in pure 3D
 
 Connect any POP geometry or just point cloud and make sure it is centerd at the origin.
 
+
+<img src="grid-preview.gif" alt="BasicTouch Preview" width="420"/>
+
 ## Params
 
 ### Core
