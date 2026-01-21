@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/M%C3%B6bius_transformation
 
 This creates smooth, continuous deformations that would be impossible in pure 3D.
 
+Connect any POP geometry or just point cloud and make sure it is centerd at the origin.
+
 ## Params
 
 ### Core
