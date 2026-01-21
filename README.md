@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/M%C3%B6bius_transformation
 2. **4D Rotation** - Points are rotated in 4D space (XY and ZW planes)
 3. **Back Projection** - Results are projected back to 3D
 
-This creates smooth, continuous deformations that would be impossible in pure 3D.
+This creates smooth, continuous deformations that preserves angles. 
 
 Connect any POP geometry or just point cloud and make sure it is centerd at the origin.
 
