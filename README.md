@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/M%C3%B6bius_transformation
 
 This creates smooth, continuous deformations that would be impossible in pure 3D.
 
-## Uniforms
+## Params
 
 ### Core
 | Uniform | Type | Default | Range | Description |
