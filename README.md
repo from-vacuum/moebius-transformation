@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/M%C3%B6bius_transformation
 
 This creates smooth, continuous deformations that preserves angles. 
 
-Connect any POP geometry or just point cloud and make sure it is centerd at the origin.
+Connect any POP geometry or just point cloud and make sure it is centerd at the origin. Change `Amount Radians`
 
 
 <img src="grid-preview.gif" alt="BasicTouch Preview" width="420"/>
